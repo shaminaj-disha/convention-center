@@ -7,6 +7,9 @@ Custom Stylesheet
 body{
     background-color: #E5E5E5;
 }
+.carouset-height{
+    height: 500px;
+}
 .pink-button{
     background-color: #F496D1;;
 }
